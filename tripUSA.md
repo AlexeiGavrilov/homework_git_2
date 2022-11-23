@@ -1,10 +1,18 @@
 # Впечатления от поездки в _**USA**_ 
 
-## *New York*
+## [*New York*](#new-york-1)
 
-## **Las Vegas**
+## [**Las Vegas**](#las-vegas-1)
 
-## ***Hawaii***
+## [***Hawaii***](#hawaii-1)
 
-## Итог
+## [Итог](#d0b8d182d0bed0b3-1)
 ---
+
+### **New York**
+
+### **Las Vegas**
+
+### **Hawaii**
+
+### **Итог**
